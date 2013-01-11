@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    siriproxy-tdtool (0.0.1)
+      levenshtein-ffi
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    ffi (1.1.5)
+    levenshtein-ffi (1.0.3)
+      ffi
+      ffi (~> 1.1.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  siriproxy-tdtool!
